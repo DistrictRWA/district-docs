@@ -323,7 +323,6 @@ District is committed to:
 
 **For general questions:**
 - Email: support@district.capital
-- Telegram: [District Community](https://t.me/districtcapital)
 
 ---
 

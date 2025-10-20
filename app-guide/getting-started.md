@@ -283,12 +283,10 @@ Now that you've deposited:
 
 **Support Channels:**
 - Email: support@district.capital
-- Telegram: [District Community](https://t.me/districtcapital)
 - Documentation: docs.district.capital
 
 **Response Times:**
 - Email: 24-48 hours
-- Telegram: Community support 24/7
 - Critical issues: Immediate escalation
 
 ---

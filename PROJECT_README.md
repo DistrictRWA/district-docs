@@ -233,7 +233,6 @@ All information must be:
 
 For documentation questions:
 - Email: docs@district.capital
-- Telegram: [District Community](https://t.me/districtcapital)
 - GitHub: Open an issue
 
 ## License

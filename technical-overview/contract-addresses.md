@@ -217,16 +217,6 @@ await vault.requestDeposit(depositAmount, userAddress);
 
 Actual gas usage may vary based on network conditions.
 
-## Emergency Contacts
-
-**Security Issues**
-- Email: security@district.capital
-- Bug Bounty: [bounty.district.capital](https://bounty.district.capital)
-
-**Technical Support**
-- Email: dev@district.capital
-- Telegram: [Developer Chat](https://t.me/districtdevs)
-
 ---
 
 **Important**: Always verify contract addresses through multiple official sources before interacting. Never trust addresses from unofficial sources.

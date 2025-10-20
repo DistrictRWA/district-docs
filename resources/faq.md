@@ -270,7 +270,6 @@ Borrower identities are anonymized for privacy, but all financial details are tr
 When not deployed in loans, vault capital is held in the reserve pool:
 - U.S. Treasury Bills (primary)
 - USDC (secondary)
-- High-grade money market instruments
 
 This ensures your capital is always productive while maintaining liquidity for redemptions.
 
@@ -298,7 +297,7 @@ Any Ethereum-compatible wallet works:
 
 ### Can I use District with other DeFi protocols?
 
-DISTRICT tokens are ERC-7540 compliant and can potentially be used in compatible DeFi protocols. However, given the illiquid nature of the underlying assets, we recommend holding tokens in your wallet rather than using them as collateral.
+DISTRICT tokens are ERC-7540 compliant and can potentially be used in compatible DeFi protocols.
 
 ### Where are the smart contracts?
 
@@ -310,22 +309,18 @@ All contract addresses are available in the [Contract Addresses](../technical-ov
 
 **Support Channels:**
 - Email: support@district.capital
-- Telegram: [District Community](https://t.me/districtcapital)
 - Documentation: docs.district.capital
-- Twitter: @DistrictRWA
+- Twitter: @district_rwa
 
 **Response Times:**
 - Email: 24-48 hours
-- Telegram: Community support available 24/7
 - Critical issues: Immediate escalation
 
 ### Where can I learn more?
 
 - **Website**: [district.capital](https://district.capital)
 - **Documentation**: This GitBook
-- **Blog**: [blog.district.capital](https://blog.district.capital)
-- **Twitter**: [@DistrictRWA](https://twitter.com/DistrictRWA)
-- **Telegram**: [Community Chat](https://t.me/districtcapital)
+- **Twitter**: [@district_rwa](https://twitter.com/district_rwa)
 
 ### How do I report a bug or security issue?
 
@@ -336,13 +331,12 @@ All contract addresses are available in the [Contract Addresses](../technical-ov
 
 **General Bugs:**
 - Email: support@district.capital
-- Telegram: Report in community chat
 - GitHub: [github.com/districtcapital](https://github.com/districtcapital)
 
 ### Can I invest on behalf of a company or fund?
 
 Yes, institutional investors are welcome. Please contact:
-- Email: institutional@district.capital
+- Email: support@district.capital
 - Include: Entity type, jurisdiction, intended investment size
 
 We can discuss:

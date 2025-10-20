@@ -35,7 +35,7 @@ District partners with the **Washington, D.C. Consortium**, a top-tier lending s
 
 - **Website**: [https://district.capital](https://district.capital)
 - **App**: [https://app.district.capital](https://app.district.capital)
-- **Twitter**: [@DistrictRWA](https://twitter.com/DistrictRWA)
+- **Twitter**: [@district_rwa](https://twitter.com/district_rwa)
 
 ---
 
